@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment lifecycle</string>
+    <string name="fragments_number">Fragments number: %1$d</string>
+    <string name="id">Id: %1$d</string>
+</resources>
